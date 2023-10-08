@@ -1,0 +1,18 @@
+[
+    {
+      "blog_id": 1,
+      "description": "Coming up with podcast ideas.",
+      "user_id": 1
+    },
+    {
+      "blog_id": 2,
+      "description": "Setting up my new podcaast website.",
+      "user_id": 2
+    },
+    {
+      "blog_id": 3,
+      "description": "Getting new equipment for my podcast.",
+      "user_id": 3
+    }
+  ]
+  
